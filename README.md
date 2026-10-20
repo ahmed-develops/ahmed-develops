@@ -1,13 +1,10 @@
-# 👋 Hey Visitor, I'm Muhammad Ahmed!
+# Hi, I'm Muhammad Ahmed!
 
 I'm a focused and passionate developer specializing in building modern and scalable applications and tools. My area of focus is distributive computing and automation through AI & IoT, followed by interfacing on web application and dashboard development.
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-develops&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-develops&layout=compact&theme=radical" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ahmed-develops&rank_icon=github&custom_title=My%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=ahmed-develops&rank_icon=github&custom_title=My%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
 ---
 
