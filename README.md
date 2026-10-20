@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ahmed!
 
-I'm a focused and passionate developer specializing in building modern and scalable applications and tools. My area of focus is distributive computing and automation through AI & IoT, followed by interfacing on web application and dashboard development.
+I'm a focused and passionate developer specializing in building modern and scalable applications and tools. My area of focus is Federated Machine Learning, Data Science and Agentic AI automation.
 
 ---
 
@@ -10,14 +10,15 @@ I'm a focused and passionate developer specializing in building modern and scala
 
 ## Projects
 
-- [**CODETRIBUTE**](https://github.com/ahmed-develops/CODETRIBUTE): A blockchain-based code contribution system with enabled token/cryptocurrency rewarding system to the users
-- [**GAMENEST ARCADE**]: IoT-based dashboard for arcade machines in Sweden with automation enabled through ESP32 and MQTT Websocket Stack.
-- [**INUME TRAVEL APP**]: Personalized travel and itinerary generation app, specifically designed for those travelling within Canadian region or plan to.
+- [**SCREENALYZE**](https://github.com/ahmed-develops/screenalyze): AI-based Mobile application to analyze screenshots and append workflows for forgetful people like me.
+- [**GAMENEST ARCADE**]: IoT-based dashboard for managing arcade machines for a Swedish client with automation enabled through ESP32 and MQTT Websocket.
+- [**INUME TRAVEL APP**]: Personalized travel and itinerary generation app, specifically designed for those who are travelling within or plan to travel in Canadian region.
+  
 ---
 
 ## Skillset and Tools
 
-- **Languages**: JavaScript, TypeScript, Python, Rust, Embedded C++
-- **Frameworks**: Node.js, Express, Next.js, NestJS, Django, React Native Expo, TypeORM
-- **Tools**: Git, Docker, VS Code, ClickUp, AWS, Azure, GCP, LangChain
-- **Interests**: Automation, Distributive Computing, Blockchain and Cryptography
+- **Languages**: JavaScript, TypeScript, Python, Embedded C++
+- **Frameworks**: NodeJS, Express.js, NextJS, NestJS, Django, React Native Expo, DrizzleORM
+- **Tools**: Git, Docker, VS Code, Obsidian, AWS, Azure, GCP, LangChain, 
+- **Interests**: Federated Machine Learning, Agentic AI
